@@ -8,6 +8,7 @@ public class HelloJava {
     System.out.println("This is my first Java program!");
     System.out.println("Bye Bye");
     System.out.println("I'm back");
+    System.out.println("Push!!!");
   }
 
 }
